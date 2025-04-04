@@ -1,0 +1,87 @@
+27/01/2025 11:40:43 src/vnfs_stats.c vnfs_print_stats[237][0]: Interfaces:::::::::::::::(p24000-DN-NONE, p24001-UP--10G, p24002-UP--10G, p24003-DN-NONE)
+
+27/01/2025 11:40:43 src/vnfs_stats.c vnfs_print_stats[238][0]: Bandwidth           0.23 (          0.00,           0.00,           0.23,           0.00) Kbps
+
+27/01/2025 11:40:43 src/vnfs_stats.c vnfs_print_stats[343][0]: Received               0 (          0.00,           0.00,           0.39,           0.00) pps
+
+27/01/2025 11:40:43 src/vnfs_stats.c vnfs_print_stats[350][0]: Dropped                0 (        0.00er,         0.00er,         0.00er,         0.00er) pps
+
+27/01/2025 11:40:43 src/vnfs_stats.c vnfs_print_stats[355][0]: Sent                   0 (          0.00,           0.00,           0.00,           0.00) pps
+
+27/01/2025 11:40:43 src/vnfs_stats.c vnfs_print_stats[370][0]: Aggregated : Received 3'026.00 packets, Dropped 0.00 packets, Sent 0.00 packets, Stored 74 packets.
+ 
+27/01/2025 11:40:43 src/vnfs_session_hash.c session_hash_flusher_thread[530]Total Alive Session Found[4] 0 Max-Depth: 0.
+
+27/01/2025 11:40:44 src/vnfs_write_meta.c meta_hash_flusher_thread[213]Counters:: SESS: 10 - 0, T: 0, U: 10, S: 0 & O: 0; PKT: IPP: 176, OP: 0; META (GB): A: 0.000021 C: 0.000000.
+
+27/01/2025 11:40:47 src/vnfs_session_hash.c session_hash_flusher_thread[530]Total Alive Session Found[11] 0 Max-Depth: 0.
+
+27/01/2025 11:40:48 src/vnfs_stats.c vnfs_print_stats[237][0]: Interfaces:::::::::::::::(p24000-DN-NONE, p24001-UP--10G, p24002-UP--10G, p24003-DN-NONE)
+
+27/01/2025 11:40:48 src/vnfs_stats.c vnfs_print_stats[238][0]: Bandwidth           0.59 (          0.00,           0.00,           0.00,           0.00) Kbps
+
+27/01/2025 11:40:48 src/vnfs_stats.c vnfs_print_stats[343][0]: Received               0 (          0.00,           0.00,           0.00,           0.00) pps
+
+27/01/2025 11:40:48 src/vnfs_stats.c vnfs_print_stats[350][0]: Dropped                0 (        0.00er,         0.00er,         0.00er,         0.00er) pps
+
+27/01/2025 11:40:48 src/vnfs_stats.c vnfs_print_stats[355][0]: Sent                   0 (          0.00,           0.00,           0.00,           0.00) pps
+
+27/01/2025 11:40:48 src/vnfs_stats.c vnfs_print_stats[370][0]: Aggregated : Received 3'028.00 packets, Dropped 0.00 packets, Sent 0.00 packets, Stored 75 packets.
+ 
+27/01/2025 11:40:48 src/vnfs_write_meta.c meta_hash_flusher_thread[213]Counters:: SESS: 10 - 0, T: 0, U: 10, S: 0 & O: 0; PKT: IPP: 176, OP: 0; META (GB): A: 0.000021 C: 0.000000.
+
+27/01/2025 11:40:49 src/vnfs_session_hash.c session_hash_flusher_thread[530]Total Alive Session Found[12] 0 Max-Depth: 0.
+
+27/01/2025 11:40:51 src/vnfs_session_hash.c session_hash_flusher_thread[530]Total Alive Session Found[10] 0 Max-Depth: 0.
+
+27/01/2025 11:40:51 src/vnfs_session_hash.c session_hash_flusher_thread[530]Total Alive Session Found[8] 1 Max-Depth: 1.
+
+27/01/2025 11:40:51 src/vnfs_session_hash.c session_hash_flusher_thread[530]Total Alive Session Found[7] 0 Max-Depth: 0.
+
+27/01/2025 11:40:52 src/vnfs_session_hash.c session_hash_flusher_thread[530]Total Alive Session Found[13] 0 Max-Depth: 0.
+
+27/01/2025 11:40:52 src/vnfs_stats.c vnfs_print_stats[237][0]: Interfaces:::::::::::::::(p24000-DN-NONE, p24001-UP--10G, p24002-UP--10G, p24003-DN-NONE)
+
+27/01/2025 11:40:52 src/vnfs_stats.c vnfs_print_stats[238][0]: Bandwidth           0.00 (          0.00,           0.00,           0.00,           0.00) Kbps
+
+27/01/2025 11:40:52 src/vnfs_stats.c vnfs_print_stats[343][0]: Received               0 (          0.00,           0.00,           0.00,           0.00) pps
+
+27/01/2025 11:40:52 src/vnfs_stats.c vnfs_print_stats[350][0]: Dropped                0 (        0.00er,         0.00er,         0.00er,         0.00er) pps
+
+27/01/2025 11:40:52 src/vnfs_stats.c vnfs_print_stats[355][0]: Sent                   0 (          0.00,           0.00,           0.00,           0.00) pps
+
+27/01/2025 11:40:52 src/vnfs_stats.c vnfs_print_stats[370][0]: Aggregated : Received 3'028.00 packets, Dropped 0.00 packets, Sent 0.00 packets, Stored 75 packets.
+ 
+27/01/2025 11:40:52 src/vnfs_write_meta.c meta_hash_flusher_thread[213]Counters:: SESS: 10 - 0, T: 0, U: 10, S: 0 & O: 0; PKT: IPP: 176, OP: 0; META (GB): A: 0.000021 C: 0.000000.
+
+27/01/2025 11:40:56 src/vnfs_write_meta.c meta_hash_flusher_thread[213]Counters:: SESS: 10 - 0, T: 0, U: 10, S: 0 & O: 0; PKT: IPP: 176, OP: 0; META (GB): A: 0.000021 C: 0.000000.
+
+27/01/2025 11:40:57 src/vnfs_stats.c vnfs_print_stats[237][0]: Interfaces:::::::::::::::(p24000-DN-NONE, p24001-UP--10G, p24002-UP--10G, p24003-DN-NONE)
+
+27/01/2025 11:40:57 src/vnfs_stats.c vnfs_print_stats[238][0]: Bandwidth           7.67 (          0.00,           0.00,           7.67,           0.00) Kbps
+
+27/01/2025 11:40:57 src/vnfs_stats.c vnfs_print_stats[343][0]: Received               5 (          0.00,           0.00,           5.38,           0.00) pps
+
+27/01/2025 11:40:57 src/vnfs_stats.c vnfs_print_stats[350][0]: Dropped                0 (        0.00er,         0.00er,         0.00er,         0.00er) pps
+
+27/01/2025 11:40:57 src/vnfs_stats.c vnfs_print_stats[355][0]: Sent                   0 (          0.00,           0.00,           0.00,           0.00) pps
+
+27/01/2025 11:40:57 src/vnfs_stats.c vnfs_print_stats[370][0]: Aggregated : Received 3'031.00 packets, Dropped 0.00 packets, Sent 0.00 packets, Stored 76 packets.
+ 
+27/01/2025 11:41:00 src/vnfs_session_hash.c session_hash_flusher_thread[530]Total Alive Session Found[6] 0 Max-Depth: 0.
+
+27/01/2025 11:41:00 src/vnfs_session_hash.c session_hash_flusher_thread[530]Total Alive Session Found[5] 0 Max-Depth: 0.
+
+27/01/2025 11:41:00 src/vnfs_session_hash.c session_hash_flusher_thread[530]Total Alive Session Found[2] 0 Max-Depth: 0.
+
+27/01/2025 11:41:00 src/vnfs_session_hash.c session_hash_flusher_thread[530]Total Alive Session Found[3] 0 Max-Depth: 0.
+
+27/01/2025 11:41:00 src/vnfs_session_hash.c session_hash_flusher_thread[530]Total Alive Session Found[0] 0 Max-Depth: 0.
+
+27/01/2025 11:41:00 src/vnfs_write_meta.c meta_hash_flusher_thread[213]Counters:: SESS: 10 - 0, T: 0, U: 10, S: 0 & O: 0; PKT: IPP: 176, OP: 0; META (GB): A: 0.000021 C: 0.000000.
+
+27/01/2025 11:41:03 src/vnfs_session_hash.c session_hash_flusher_thread[530]Total Alive Session Found[1] 0 Max-Depth: 0.^C
+
+root@VEHERE:/home/vehere# tail -f /var/log/probe/Mon_0.log
+
+ 
